@@ -1,0 +1,2 @@
+# Text_Recognization_From_Image
+Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo (for example the text on signs and billboards in a landscape photo) or from subtitle text superimposed on an image.The EAST text detector requires that we are running OpenCV 3.4.2 or OpenCV 4,CNN(Convolution Neural Networks) on our systems.
